@@ -152,7 +152,15 @@ newsletter:
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
+announcements:
+  enabled: false
 
+latest_posts:
+  enabled: false
+
+selected_papers:
+  enabled: false
+  
 collections:
   books:
     output: true
