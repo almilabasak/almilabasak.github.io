@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD candidate at <a href='https://www.maxwell.syr.edu/directory/almila-basak'>Syracuse University</a>. Address. abasak@syr.edu
+subtitle: PhD candidate at <a href='https://www.maxwell.syr.edu/directory/almila-basak'>Syracuse University</a>
 
 profile:
   align: right
