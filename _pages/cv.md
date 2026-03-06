@@ -14,3 +14,7 @@ toc:
 <div class="text-center">
   <a href="/assets/pdf/CV.pdf" class="btn btn-primary" target="_blank">Download CV</a>
 </div>
+
+<div class="embed-responsive" style="height: 800px;">
+  <iframe src="/assets/pdf/CV.pdf" width="100%" height="100%" style="border: none;"></iframe>
+</div>
