@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
@@ -10,3 +10,7 @@ description:
 toc:
   sidebar: left
 ---
+
+<div class="text-center">
+  <a href="/assets/pdf/CV.pdf" class="btn btn-primary" target="_blank">Download CV</a>
+</div>
