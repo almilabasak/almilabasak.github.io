@@ -6,8 +6,8 @@ subtitle: PhD candidate at <a href='https://www.maxwell.syr.edu/directory/almila
 
 profile:
   align: right
-  image: 
-  image_circular: false # crops the image to make it circular
+  image: abasak@syr.edu-1.jpg
+  image_circular: true # crops the image to make it circular
   more_info: 
 
 
