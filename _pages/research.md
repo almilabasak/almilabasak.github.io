@@ -16,3 +16,6 @@ nav_order: 3
 ## In Progress
 
 - Social Policy Preferences in Populist Welfare Regimes: Evidence from Turkey
+- Understanding the Gender Gap in Party Preferences:The role of welfare state inclusiveness
+- Measuring Issue Salience for Party Manifestos using LLMs: Alternative to Hand-coding?
+- Preferences of Low-income voters and the Left-Wing Parties 
