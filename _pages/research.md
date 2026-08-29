@@ -15,7 +15,7 @@ nav_order: 3
 
 ## In Progress
 
-- Social Policy Preferences in Populist Welfare Regimes: Evidence from Turkey
-- Understanding the Gender Gap in Party Preferences:The role of welfare state inclusiveness
-- Measuring Issue Salience for Party Manifestos using LLMs: Alternative to Hand-coding?
-- Preferences of Low-income voters and the Left-Wing Parties 
+- Policy Feedback at the Ballot Box: How Do Social Policy Recipients Vote?
+- Social Benefits and Retrospective Voting During Economic Downturns: Evidence from Turkey
+- Is the Class Gap a Trust gap? Working-class defection and the decline of Mainstream Left in Europe
+- Measuring Welfare Issue Salience in Party Documents using LLMs
